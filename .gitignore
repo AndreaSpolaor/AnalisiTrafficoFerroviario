@@ -1,0 +1,13 @@
+# Virtual environments
+trains/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env variables
+.env
